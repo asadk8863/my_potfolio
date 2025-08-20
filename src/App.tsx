@@ -83,7 +83,7 @@ function App() {
       <nav className="fixed top-0 left-0 right-0 bg-white/90 backdrop-blur-sm shadow-sm z-50">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
-            <div className="text-2xl font-bold text-red-600">Prime Group</div>
+            <div className="text-2xl font-bold text-red-600">Prime Trans Group</div>
             
             {/* Desktop Menu */}
             <div className="hidden md:flex space-x-8">
