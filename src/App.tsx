@@ -130,7 +130,7 @@ function App() {
               
               <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-4">
                 Hi, We're<br />
-                <span className="text-red-600">Prime Group</span>
+                <span className="text-red-600">Prime Trans Group</span>
               </h1>
               
               <p className="text-lg text-gray-600 mb-6">
